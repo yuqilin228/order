@@ -8,7 +8,5 @@ public class OrderController {
         System.out.println("bbb提交了代码3333");
 
         System.out.println("bbb提交了代码444");
-
-        System.out.println("bbb提交了代码555");
     }
 }
